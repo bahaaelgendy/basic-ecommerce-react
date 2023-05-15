@@ -1,0 +1,11 @@
+.navbar {
+    border-bottom: 1px solid #ddd ;
+}
+
+.logo {
+    width: 70px;
+}
+
+.navbar-toggler:focus {
+    box-shadow: 0;
+}
